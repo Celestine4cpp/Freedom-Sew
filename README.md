@@ -5,5 +5,7 @@
 
 I will be updating this ReadMe as i go along with the project.
 
+# This is a few snapshots of my mobile application
 
-![](snapshots/first%20screen.PNG)
+## First Screen after launching the app (pic 1)
+<img src="snapshots/first screen.PNG" alt="first screen of my mobile app" width="300" height="400">
