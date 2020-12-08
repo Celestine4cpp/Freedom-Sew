@@ -6,4 +6,4 @@
 I will be updating this ReadMe as i go along with the project.
 
 
-![](snapshots/first screen.png)
+![](snapshots/first%20screen.png)
